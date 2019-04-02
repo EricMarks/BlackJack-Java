@@ -16,6 +16,8 @@ Get another card from the dealer
 
 # Stand
 Stay with your cards and compare with the dealers to see if you have won
+![image](https://user-images.githubusercontent.com/35350619/55422679-6e16de00-5539-11e9-97c0-c84d2bd8c163.png)
+
 
 # Player-Bust
 Player has gone over the 21 limit
