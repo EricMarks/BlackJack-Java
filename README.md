@@ -6,23 +6,22 @@ A "BlackJack" is the highest hand, consisting of an ace and any 10-point card, a
 Card Values
 In Blackjack the numeral cards 2 to 10 have their face values. Jacks, Queens and Kings are valued at 10, and Aces can have a value of either 1 or 11. The Ace is always valued as 11 unless that would result in the hand going over 21, in which case it is valued as 1.
 
-The Game
+# The-Game
 Based on yours and the dealers cards decide wether to "hit" or "stand"
 ![image](https://user-images.githubusercontent.com/35350619/55421721-1f684480-5537-11e9-921c-29e2802a8271.png)
 
-Hit
+# Hit
 Get another card from the dealer
-![image](https://user-images.githubusercontent.com/35350619/55420585-9ea84900-5534-11e9-9af2-2d95cee6c585.png)
+![image](https://user-images.githubusercontent.com/35350619/55422201-5723bc00-5538-11e9-915a-3b916bed6dae.png)
 
-Stand
+# Stand
 Stay with your cards and compare with the dealers to see if you have won
-![image](https://user-images.githubusercontent.com/35350619/55420500-6c96e700-5534-11e9-83d2-15c5fb116ae8.png)
 
-Player Bust
+# Player-Bust
 Player has gone over the 21 limit
-![image](https://user-images.githubusercontent.com/35350619/55421951-c220c300-5537-11e9-9053-5555de88d8f0.png)
+![image](https://user-images.githubusercontent.com/35350619/55422139-3491a300-5538-11e9-9e01-16316bb74ccd.png)
 
-Dealer Bust
+# Dealer-Bust
 Dealer has gone over the 21 limit
-![image](https://user-images.githubusercontent.com/35350619/55420649-bf709e80-5534-11e9-8ff8-fbef713c9e17.png)
+![image](https://user-images.githubusercontent.com/35350619/55422354-b255ae80-5538-11e9-9bea-fafcc1677701.png)
 
