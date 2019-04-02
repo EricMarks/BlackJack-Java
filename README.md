@@ -11,7 +11,7 @@ Based on yours and the dealers cards decide wether to "hit" or "stand"
 ![image](https://user-images.githubusercontent.com/35350619/55421721-1f684480-5537-11e9-921c-29e2802a8271.png)
 
 # Hit
-Get another card from the dealer
+Get another card from the dealer <br />
 ![image](https://user-images.githubusercontent.com/35350619/55422201-5723bc00-5538-11e9-915a-3b916bed6dae.png)
 
 # Stand
@@ -20,7 +20,7 @@ Stay with your cards and compare with the dealers to see if you have won
 
 
 # Player-Bust
-Player has gone over the 21 limit
+Player has gone over the 21 limit <br />
 ![image](https://user-images.githubusercontent.com/35350619/55422139-3491a300-5538-11e9-9e01-16316bb74ccd.png)
 
 # Dealer-Bust
